@@ -1,1 +1,14 @@
-# FYTuis7862BinRepo
+# Modding your FYT uis7862 (ums512) unit without root
+
+
+### Support via the XDA forum thread ["FYT based Spreadtrum uis7862 (unisoc ums512) - Q&A, Mods, tips"](https://forum.xda-developers.com/android-auto/android-head-units/modding-joying-fyt-sc9853i-unit-root-t3974357)
+
+
+The zips that can be found in these sub-folders can be directly unzipped to a clean, empty Fat32 formatted USB-stick or SD-card.
+
+When this USB-stick or SD-card is inserted into your unit, the unit will recognize it as a flashable firmware.
+
+Notes:
+* These flashable firmware files will leave all your installed apps and settings as they are. Only the files/apks, when relevant, will be overwritten.
+* Some scripts and mods are universal FYT mods for sc9853i, uis7862 (ums512) and for sc9863a (uis8581).
+

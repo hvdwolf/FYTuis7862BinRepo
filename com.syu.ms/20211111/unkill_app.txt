@@ -1,0 +1,75 @@
+# 不杀的进程
+com.syu.ms
+com.syu.ps
+com.syu.us
+com.syu.ss
+com.syu.dvr
+com.syu.canbus
+com.syu.odb
+com.android.systemui
+net.easyconn
+#com.syu.music	#20160616小万要求杀掉
+com.autonavi.xmgd.navigator
+com.syu.widget
+com.android.launcher
+com.android.launcher2
+com.android.launcher3
+com.android.wallpaper
+com.android.galaxy4
+com.android.wallpaper.holospiral
+com.android.wallpaper.livepicker
+com.android.magicsmoke
+com.android.musicvis
+com.android.noisefield
+com.android.phasebeam
+com.syu.funcbtn
+com.syu.gpswidget
+com.vipercn.viper4android_v2
+com.android.bluetooth
+com.mirrtalk.app #微蜜
+com.syu.voice #语音助手
+#com.syu.video #20160616小万要求杀掉
+com.syu.air	  #空调控制
+com.android.phone #RK说不杀
+com.antutu.ABenchMark #安兔兔跑分不杀
+com.antutu.benchmark.full
+com.syu.car   #我的爱车
+com.syu.unicar
+com.fyt.screenbutton
+com.syu.electricdoor
+com.glsx.ddbox	#滴滴虎不杀
+com.mapgoo.carlauncher				#万普
+com.youzi.customer.service #威驰服务
+com.youzi.customer.carcomputer #威驰应用
+ex.hiworld.obd
+com.teyes.carkit#天之眼DVR
+com.cusc.vehicle.assistant
+com.ava.car
+com.ava.acessbilityapplication
+com.sjs.vrbackcarapp
+com.syu.eq
+com.glsx.ddbox
+com.spreadwin.service
+com.envo.mono.android
+com.mapgoo.diruite
+com.icarvietnam.icarv
+## Several 3rd party launchers added by HvdW
+ru.speedfire.flycontrolcenter  #FCC Car launcher
+com.iflytek.autofly  #FCC voice plugin
+altergames.carlauncher  #AGAMA car launcher
+com.autolauncher.motorcar.free  #Car launcher free
+com.autolauncher.motorcar  #Car launcher pro
+com.softartstudio.carwebguru  #Car web guru launcher
+gb.xxy.hr  #Head unit reloaded
+gb.xxy.trial  #Head unit reloaded trial
+com.teslacoilsw.launcher  #Nova launcher
+com.teslacoilsw.launcher.prime  #Nova launcher prime
+is.shortcut  #Evie launcher
+## Automation/tasks apps added by HvdW
+net.dinglisch.android.taskerm	#Tasker
+com.llamalab.automate		#Automate
+com.arlosoft.macrodroid		#Macrodroid
+ryey.easer			#Easer
+ryey.easer.beta			#Easer beta
+AutomateIt.mainPackage		#AutomateIT
+AutomateItPro.mainPackage	#AutomateIT Pro

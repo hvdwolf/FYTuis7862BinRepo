@@ -1,0 +1,77 @@
+# 以井号开始为注释:导航应用,该文件内的应用音频默认按焦点处理，若导航应用无焦点申请操作，请在navi_audio_from_playstatus.txt添加相关应用包名
+cn.com.tiros.android.navidog 		#导航犬
+cn.com.tiros.android.navidog4x		#导航犬2013
+com.autonavi.xmgd.navigator			#高德导航
+com.mapbar.android.mapnavi			#导航小米
+com.pdager							#天翼导航
+com.raxtone.flynavi					#飞卢快导航
+com.uu.uunavi						#悠悠导航
+com.baidu.navi						#百度导航
+cld.navi.mobile.mainframe			#凯立德
+com.mapbar.android.mapbarmap		#图吧导航
+#com.mapbar.android.carnavi			#图吧汽车导航
+title.navi							#道道通
+cld.navi.c2802.mainframe			#凯立德
+cld.navi.c3525.mainframe			#凯立德
+cld.navi.c2198.mainframe			#凯立德 2015/12/24悦歌添加
+com.navngo.igo.javaclient			#IGO
+com.basarsoft.igo.javaclient		#IGO
+com.mxnavi.mxnavi					#佳艺田定制的美行地图
+#com.txznet.txz						#云之声导航
+com.autonavi.amapauto				#高德车机版
+ru.yandex.yandexnavi						
+com.navitel
+com.google.android.apps.maps		#谷歌导航
+ru.yandex.yandexnavi
+com.tencent.wecarnavi
+com.ankai.edog
+＃com.ankai.cardvr
+com.nng.igo.primong.palestine
+com.nng.igo.primong
+jp.co.datawest.android.navi			#小日本的垃圾地图
+com.papago.M11_Int					#趴趴狗
+com.kingwaytek.naviking3d			#乐客导航王
+com.sygic.aura						#Sygic导航
+com.google.android.tts				#google TTS 
+com.kingwaytek.navikinggi			#导航王
+#com.mapgoo.carlauncher				#万普
+com.basarsoft.igonextgen.javaclient  #IGO
+com.waze                            #智航位智地图
+ru.yandex.yandexnavi
+com.papago.M11SGMY
+com.teyes.TeyesVision
+ru.dublais.daismobile
+## Other Western/American nav apps added by HvdW
+com.mapfactor.navigator			#Mapfactor Navigator Free
+com.generalmagic.magicearth		#Magic Earth
+com.route66.maps5			#Magic Earth Pro
+net.osmand				#OsmAnd Free
+net.osmand.plus				#OsmAnd Plus
+com.here.app.maps			#HERE WeGo
+com.mapswithme.maps.pro			#MAPS.ME
+com.navfree.android.OSM.ALL		#Navmii
+com.navigon.navigator_one		#Navigon
+com.tomtom.gplay.navapp			#TomTom Mobile Go
+com.sygic.incar				#Sygic In Car
+com.alk.copilot.mapviewer		#CoPilot GPS
+cz.aponia.bor3.offlinemaps		#Offline Maps & Navigation
+com.google.android.launcher		#Google Now Launcher
+com.turboled.enhancedtts		#Enhanced TTs improves TTS
+com.tomtom.speedcams.android.map	#TomTom Speed Cameras
+com.viamichelin.android.viamichelinmobile	#ViaMichelin
+com.camsam				# camsam blitzer.de blitzerwarner
+com.camsam.plus				# camsam plus version
+cm.aptoide.pt				# Blitzer.de ?
+de.blitzer				# Blitzer.de ?
+de.blitzer.plus				# Blitzer.de Plus ?
+nl.flitsmeister				# Flitsmeister
+com.sygic.speedcamapp			# Sygic Speed cams and traffic
+com.alpriority.alpconnect		# alpconnect
+com.ventel.android.radardroid2		# Radardroid
+com.nng.igo.primong.igoworld		# iGo nav app
+es.codefactory.vocalizertts		# Voice vocalizer tts
+com.acapelagroup.android.tts		# Acapela TTS Voices
+com.emileferreira.bestee		# Bestee virtual assistant (tts)
+com.tomtom.mydrive.eu			# TomTom MyDrive
+com.bodunov.galileo			# Guru Maps
+com.bodunov.GalileoPro			# Guru Maps Pro

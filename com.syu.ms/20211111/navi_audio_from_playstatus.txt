@@ -1,0 +1,17 @@
+#通过BSP的播放状态控制导航报音的地图应用
+# % 开头表示该行使用正则表达式匹配包名
+%com\.kingwaytek\..
+%.\.igo.			#所有IGO地图   com.nng.igoprimoisrael.javaclient / com.nng.igo.primong.igoworld
+com.papago.s1OBU
+com.galactio.obu.generic
+com.navitel
+%com\.vietmap\..
+ru.yandex.yandexmaps
+%ru\.yandex\.yandexmaps.
+ru.dublais.daismobile
+## More tts like apps HvdW
+com.google.android.tts
+es.codefactory.vocalizertts
+com.acapelagroup.android.tts
+com.emileferreira.bestee
+

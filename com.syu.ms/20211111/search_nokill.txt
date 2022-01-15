@@ -1,0 +1,20 @@
+jadx-gui 0.9 and up support "Deobfuscation", but that doesn't always work.
+Lines/example below are for standard mode WITHOUT Deobfuscation.
+
+Search for:   runningAppProcesses = o.getRunningAppProcesses();
+
+This will be in some method like:  public static void o() {
+
+This method is called by another method like:
+    public static void n() {
+        o();
+    }
+
+In this version of the apk in jadx-gui, you will find it in ad in line 554 (jadx already shows this)..
+Now go into the smali code to smali/app/ad.smali
+
+Find the line number for "o();" and disable that line.
+e.g.
+    .line 554
+    invoke-static {}, Lapp/ac;->o()V
+
